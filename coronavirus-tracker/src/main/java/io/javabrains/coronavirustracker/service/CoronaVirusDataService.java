@@ -1,4 +1,4 @@
-package io.javabrains.coronavirustracker;
+package io.javabrains.coronavirustracker.service;
 
 import java.io.IOException;
 import java.io.StringReader;
